@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "name": "Technology"
+  },
+  {
+    "id": 2,
+    "name": "Travel"
+  },
+  {
+    "id": 3,
+    "name": "Health"
+  },
+  {
+    "id": 7,
+    "name": "Web Development"
+  },
+  {
+    "id": 8,
+    "name": "Cuisine"
+  },
+  {
+    "id": 9,
+    "name": "Food Exploration"
+  },
+  {
+    "id": 10,
+    "name": "Mindfulness"
+  },
+  {
+    "id": 7,
+    "name": "Photography"
+  },
+  {
+    "id": 8,
+    "name": "Art"
+  },
+  {
+    "id": 9,
+    "name": "History"
+  },
+  {
+    "id": 10,
+    "name": "Home and Living"
+  }
+]

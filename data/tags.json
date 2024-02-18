@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Technology"
+  },
+  {
+    "id": 2,
+    "name": "Society"
+  },
+  {
+    "id": 3,
+    "name": "Travel"
+  },
+  {
+    "id": 4,
+    "name": "Culture"
+  },
+  {
+    "id": 5,
+    "name": "Health"
+  },
+  {
+    "id": 6,
+    "name": "Wellness"
+  },
+  {
+    "id": 4,
+    "name": "Technology"
+  },
+  {
+    "id": 5,
+    "name": "Culinary"
+  },
+  {
+    "id": 6,
+    "name": "Mindfulness"
+  },
+  {
+    "id": 11,
+    "name": "Photography"
+  },
+  {
+    "id": 12,
+    "name": "Photography Tips"
+  },
+  {
+    "id": 13,
+    "name": "Fitness"
+  },
+  {
+    "id": 14,
+    "name": "Modern Art"
+  },
+  {
+    "id": 15,
+    "name": "Artistic Inspiration"
+  },
+  {
+    "id": 16,
+    "name": "Innovations"
+  },
+  {
+    "id": 17,
+    "name": "Ancient Civilizations"
+  },
+  {
+    "id": 18,
+    "name": "Cultural Heritage"
+  },
+  {
+    "id": 19,
+    "name": "DIY"
+  },
+  {
+    "id": 20,
+    "name": "Home Decor"
+  },
+  {
+    "id": 38,
+    "name": "Mobile App Design"
+  }
+]

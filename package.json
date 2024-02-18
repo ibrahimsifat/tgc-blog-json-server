@@ -1,0 +1,14 @@
+{
+  "name": "server-blogs",
+  "description": "Example in blog application using json-server",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js "
+  },
+  "keywords": [],
+  "author": "Ibrahim Sifat",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
